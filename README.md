@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/anjana-oss/leetcode/tree/master/0617-merge-two-binary-trees) |
+## Array
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+## String
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
