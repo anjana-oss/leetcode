@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/anjana-oss/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/anjana-oss/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/anjana-oss/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/anjana-oss/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/anjana-oss/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0872-leaf-similar-trees](https://github.com/anjana-oss/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Array
 |  |
 | ------- |
