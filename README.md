@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Two Pointers
@@ -40,17 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
