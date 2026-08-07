@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anjana-oss/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/anjana-oss/leetcode/tree/master/0981-time-based-key-value-store) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anjana-oss/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/anjana-oss/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/anjana-oss/leetcode/tree/master/0981-time-based-key-value-store) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anjana-oss/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
