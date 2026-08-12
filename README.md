@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/anjana-oss/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anjana-oss/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjana-oss/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anjana-oss/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/anjana-oss/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
 | [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/anjana-oss/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjana-oss/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjana-oss/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -124,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anjana-oss/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
