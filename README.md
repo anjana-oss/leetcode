@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anjana-oss/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjana-oss/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/anjana-oss/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anjana-oss/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
 | [0981-time-based-key-value-store](https://github.com/anjana-oss/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
