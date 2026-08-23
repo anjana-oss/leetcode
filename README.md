@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anjana-oss/leetcode/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anjana-oss/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/anjana-oss/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/anjana-oss/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anjana-oss/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjana-oss/leetcode/tree/master/0424-longest-repeating-character-replacement) |
