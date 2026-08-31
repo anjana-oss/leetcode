@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/anjana-oss/leetcode/tree/master/0079-word-search) |
 | [0705-design-hashset](https://github.com/anjana-oss/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anjana-oss/leetcode/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/anjana-oss/leetcode/tree/master/0881-boats-to-save-people) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anjana-oss/leetcode/tree/master/0125-valid-palindrome) |
 | [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0881-boats-to-save-people](https://github.com/anjana-oss/leetcode/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anjana-oss/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/anjana-oss/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## String
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0881-boats-to-save-people](https://github.com/anjana-oss/leetcode/tree/master/0881-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anjana-oss/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anjana-oss/leetcode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/anjana-oss/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
